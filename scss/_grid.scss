@@ -1,0 +1,13 @@
+// Flexbsox Grid
+.page {
+    display: flex;
+}
+
+header, 
+section,
+article,
+main,
+aside,
+footer {
+    flex: 1;
+}
